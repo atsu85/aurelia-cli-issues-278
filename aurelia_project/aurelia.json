@@ -116,7 +116,7 @@
           "aurelia-templating-binding",
           {
             "name": "text",
-            "path": "../scripts/text"
+            "path": "../../scripts/text"
           },
           {
             "name": "aurelia-templating-resources",
