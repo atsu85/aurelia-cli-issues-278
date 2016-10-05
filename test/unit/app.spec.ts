@@ -1,4 +1,4 @@
-import {App} from '../../xxx/app';
+import {App} from '../../xxx/yyy/app';
 
 describe('the app', () => {
   it('says hello', () => {
