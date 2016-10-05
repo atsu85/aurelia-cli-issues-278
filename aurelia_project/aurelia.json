@@ -15,19 +15,19 @@
       "./typings/**/*.d.ts",
       "./custom_typings/**/*.d.ts"
     ],
-    "source": "src\\**\\*.ts"
+    "source": "xxx\\**\\*.ts"
   },
   "markupProcessor": {
     "id": "none",
     "displayName": "None",
     "fileExtension": ".html",
-    "source": "src\\**\\*.html"
+    "source": "xxx\\**\\*.html"
   },
   "cssProcessor": {
     "id": "sass",
     "displayName": "Sass",
     "fileExtension": ".scss",
-    "source": "src\\**\\*.scss"
+    "source": "xxx\\**\\*.scss"
   },
   "editor": {
     "id": "webstorm",
@@ -39,12 +39,12 @@
     "source": "test\\unit\\**\\*.ts"
   },
   "paths": {
-    "root": "src",
-    "resources": "src\\resources",
-    "elements": "src\\resources\\elements",
-    "attributes": "src\\resources\\attributes",
-    "valueConverters": "src\\resources\\value-converters",
-    "bindingBehaviors": "src\\resources\\binding-behaviors"
+    "root": "xxx",
+    "resources": "xxx\\resources",
+    "elements": "xxx\\resources\\elements",
+    "attributes": "xxx\\resources\\attributes",
+    "valueConverters": "xxx\\resources\\value-converters",
+    "bindingBehaviors": "xxx\\resources\\binding-behaviors"
   },
   "testFramework": {
     "id": "jasmine",

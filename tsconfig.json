@@ -16,7 +16,7 @@
     "node_modules"
   ],
   "filesGlob": [
-    "./src/**/*.ts",
+    "./xxx/**/*.ts",
     "./test/**/*.ts",
     "./typings/index.d.ts",
     "./custom_typings/**/*.d.ts"

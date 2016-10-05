@@ -2,7 +2,7 @@
   var karma = global.__karma__;
   var requirejs = global.requirejs
   var locationPathname = global.location.pathname;
-  var root = 'src';
+  var root = 'xxx';
   karma.config.args.forEach(function(value, index) {
     if (value === 'aurelia-root') {
       root = karma.config.args[index + 1];
